@@ -40,7 +40,7 @@ import java.nio.file.Paths;
 import java.nio.file.attribute.PosixFilePermissions;
 
 public final class JavaMain {
-    
+    //注册中心端口号
     private static final int EMBED_ZOOKEEPER_PORT = 2181;
     
     private static final String ZOOKEEPER_CONNECTION_STRING = "localhost:" + EMBED_ZOOKEEPER_PORT;
