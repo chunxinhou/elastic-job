@@ -13,7 +13,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <springboot.version>1.4.2.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
     </properties>
     
     <dependencies>
